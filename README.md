@@ -1,4 +1,5 @@
 
+![Screenshot from 2025-05-11 09-22-43](https://github.com/user-attachments/assets/377363d1-6df4-4bd2-a49e-8ac777a0fa68)
 
 ![Language](https://img.shields.io/badge/language-Java%20-blue.svg)
 ![Technologies](https://img.shields.io/badge/technologies-Spring_boot%20-green.svg)
@@ -12,7 +13,6 @@
 ## Overview
 The Expenses Tracker App is a robust financial management solution developed using cutting-edge technologies such as Spring Boot, Spring Security, and MySQL. With user authentication and authorization features, users can securely sign up, sign in, and perform CRUD operations on their expenses. The app's intuitive interface, powered by Thymeleaf and Bootstrap, ensures a seamless user experience. The filtering functionality allows users to efficiently organize and analyze their financial data. Explore the power of streamlined expense tracking and financial control with this feature-rich application.<br> (Screenshots below for more illustration)
 
-![Screenshot from 2025-05-11 09-22-43](https://github.com/user-attachments/assets/377363d1-6df4-4bd2-a49e-8ac777a0fa68)
 
 ## Technologies Used
 - Java
